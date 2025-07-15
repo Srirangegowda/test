@@ -1,2 +1,6 @@
+   hjwhudwh<<<<<<< HEAD
 ji
 gowda
+=======
+good gowda
+>>>>>>> abbc001c7cb2a01f50cba1d049eac0870c7c4006
